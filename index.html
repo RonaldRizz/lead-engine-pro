@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Lead Engine Pro — Local Business Leads in 48 Hours</title>
+<title>Lead Engine Pro — Local Business Leads</title>
 <style>
   * { box-sizing: border-box; }
   body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 0; background: #0b0d10; color: #e6e9ef; }
@@ -19,11 +19,14 @@
   .card { background: #12161c; border: 1px solid rgba(255,255,255,.08); border-radius: 14px; padding: 18px; }
   .card h3 { margin: 0 0 8px; font-size: 16px; color: #f5c542; }
   .card p { margin: 0; color: #aab3c0; font-size: 14px; }
-  .price { font-size: 28px; font-weight: 700; color: #f5c542; }
   .proof { margin-top: 32px; background: #12161c; border: 1px solid rgba(255,255,255,.08); border-radius: 14px; padding: 18px; }
   .proof pre { background: #0b0d10; border: 1px solid rgba(255,255,255,.08); border-radius: 10px; padding: 14px; overflow: auto; color: #cdd3de; }
   footer { margin-top: 60px; color: #7b8494; font-size: 13px; }
   a { color: #f5c542; }
+  .order-form { margin-top: 40px; background: #12161c; border: 1px solid rgba(255,255,255,.08); border-radius: 14px; padding: 20px; }
+  .order-form label { display: block; color: #aab3c0; font-size: 14px; margin-bottom: 6px; }
+  .order-form input, .order-form select, .order-form textarea { width: 100%; padding: 10px 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,.12); background: #0b0d10; color: #e6e9ef; margin-bottom: 14px; }
+  .order-form button { background: #f5c542; color: #0b0d10; border: 0; padding: 12px 16px; border-radius: 10px; font-weight: 700; cursor: pointer; }
 </style>
 </head>
 <body>
@@ -32,7 +35,7 @@
     <p class="sub">Clean CSVs with opportunity scores, review audits, and outreach scripts — built for agencies, SEOs, web designers, and sales teams.</p>
     <div class="cta-row">
       <a class="btn btn-primary" href="https://github.com/RonaldRizz/lead-engine-pro" target="_blank">View package</a>
-      <a class="btn btn-secondary" href="mailto:YOUREMAIL@example.com?subject=Lead%20scan%20-%20Austin%20restaurants">Order a scan</a>
+      <a class="btn btn-secondary" href="#order">Order a scan</a>
     </div>
 
     <div class="grid">
@@ -61,6 +64,31 @@ Family-Owned Restaurant Services #9,(512) 555-0123,,2.9,7,94
 Best Restaurant Cafe #2,(512) 555-0178,,3.4,6,88
 Local Restaurant LLC #6,(512) 555-0188,,3.1,11,82</pre>
       <p style="color:#aab3c0; font-size:14px; margin-top:10px;">Each lead is scored by missing online presence and review health. You call the hottest first.</p>
+    </div>
+
+    <div class="order-form" id="order">
+      <h3 style="margin-top:0; color:#f5c542;">Order a scan</h3>
+      <form action="https://formspree.io/f/xpznkgwr" method="POST">
+        <label>Name</label>
+        <input type="text" name="name" required />
+        <label>Email</label>
+        <input type="email" name="email" required />
+        <label>Service</label>
+        <select name="service">
+          <option>Lead Scan — $97</option>
+          <option>Reputation Pack — $197</option>
+          <option>Data Cleaner — $47</option>
+          <option>Retainer — $499/mo</option>
+        </select>
+        <label>City / Area</label>
+        <input type="text" name="city" placeholder="Austin, TX" required />
+        <label>Niche</label>
+        <input type="text" name="niche" placeholder="restaurants, salons, contractors" required />
+        <label>Notes</label>
+        <textarea name="notes" rows="4" placeholder="Any filters, target count, or special requests"></textarea>
+        <button type="submit">Send request</button>
+      </form>
+      <p style="color:#7b8494; font-size:13px; margin-top:10px;">You’ll get a confirmation email. First sample in 24h.</p>
     </div>
 
     <footer>
