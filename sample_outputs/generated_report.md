@@ -1,0 +1,17 @@
+# Client Delivery Report
+Generated: 2026-07-04 03:40
+
+## Data
+
+| business_name | phone | location | niche | website | review_score | review_count | missing_presence | opportunity_score | None |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Austin Local Bistro #1 | (512) 555-0142 | Austin |  TX | restaurant | https://www.austinlocalbistro1.com | 4.2 | 45 |  | ['52'] |
+| Best Restaurant Cafe #2 | (512) 555-0178 | Austin |  TX | restaurant |  | 3.4 | 6 | no_website|low_rating|few_reviews | ['88'] |
+| Award-Winning Restaurant Diner #3 | (512) 555-0114 | Austin |  TX | restaurant | https://www.award-winningrestaurantdiner3.com | 4.6 | 78 |  | ['42'] |
+| Family-Owned Restaurant Eatery #4 | (512) 555-0199 | Austin |  TX | restaurant |  | 2.8 | 9 | no_website|low_rating|few_reviews|no_google_profile | ['96'] |
+| Top Restaurant Kitchen #5 | (512) 555-0150 | Austin |  TX | restaurant | https://www.toprestaurantkitchen5.com | 3.9 | 52 |  | ['56'] |
+| Local Restaurant LLC #6 | (512) 555-0188 | Austin |  TX | restaurant |  | 3.1 | 11 | no_website|low_rating|few_reviews | ['82'] |
+| Best Restaurant Bistro #7 | (512) 555-0137 | Austin |  TX | restaurant | https://www.bestrestaurantbistro7.com | 4.4 | 67 |  | ['45'] |
+| Award-Winning Restaurant Studio #8 | (512) 555-0166 | Austin |  TX | restaurant | https://www.award-winningrestaurantstudio8.com | 4.1 | 28 |  | ['55'] |
+| Family-Owned Restaurant Services #9 | (512) 555-0123 | Austin |  TX | restaurant |  | 2.9 | 7 | no_website|low_rating|few_reviews|no_google_profile | ['94'] |
+| Top Restaurant Eatery #10 | (512) 555-0109 | Austin |  TX | restaurant | https://www.toprestauranteatery10.com | 3.7 | 34 |  | ['62'] |
