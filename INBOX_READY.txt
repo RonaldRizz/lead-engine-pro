@@ -1,0 +1,37 @@
+/*
+INBOX READY — open this on your return and hit Send.
+
+FASTEST PATH TO FIRST DOLLAR
+1. Post 1 Fiverr gig: use FIVERR_GIG.md
+2. Send 10 cold emails: use outreach_by_niche.md
+3. Wait 48h.
+4. If gig gets clicks but no orders → drop price to $47, promise 24h.
+5. If emails get replies → book 15-min call, close $197 Reputation Pack.
+
+TIMELINE
+Today: Fiverr gig + 5 emails
+Tomorrow: 5 more emails + gig optimization
+Day 3: Follow up non-replies + optimise gig title/thumb
+Day 5: Expect first $47–$197 order
+
+GIG TITLE COPY-PASTE FOR ALL 4 NICHES
+
+1. I will deliver 100 qualified local business leads with weak online presence
+   → Post from: FIVERR_GIG.md
+
+2. I will deliver 100 qualified local salon and spa leads with weak online presence
+   → Post from: FIVERR_GIG_SALON.md
+
+3. I will deliver 100 qualified local contractor and construction leads with weak online presence
+   → Post from: FIVERR_GIG_CONTRACTOR.md
+
+4. I will clean dedupe and normalize your messy CSV or Excel dataset
+   → Post from: FIVERR_GIG_DATA_CLEANER.md
+
+LANDING PAGE
+https://ronaldrizz.github.io/lead-engine-pro/
+
+REPO
+https://github.com/RonaldRizz/lead-engine-pro
+
+*/
