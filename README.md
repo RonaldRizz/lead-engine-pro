@@ -4,43 +4,27 @@ Local business lead-gen tools + done-for-you service packaging.
 
 **I build lead lists and automation for local businesses, agencies, and consultants.**
 
-## Why I built this
+## Deployed lanes
 
-Most local businesses sit on 20–40% lost revenue from weak online presence. I built these tools to find them fast — so you can close deals instead of scrolling Google Maps for hours.
-
-## Packages
-
-| Package | Price | Delivery | What You Get |
+| Lane | Gig file | Target buyer | Proof |
 |---|---|---|---|
-| Lead Magnet Scan | $97 | 48h | 100 leads, opportunity scores, CSV + report |
-| Reputation Rescue Pack | $197 | 72h | 50-business review audit, sentiment analysis, action plan |
-| Data Cleaner | $47/dataset | 24h | Clean, deduped, normalized CSV |
-| Monthly Retainer | $499/mo | Weekly | Fresh lead scans + outreach scripts |
+| Restaurant/General local | FIVERR_GIG.md | Agencies, SEOs, web designers | sample_outputs/leads_austin_restaurant.csv |
+| Salon & Spa | FIVERR_GIG_SALON.md | Beauty agencies, product sales | sample_outputs/sample_delivery.md |
+| Contractor | FIVERR_GIG_CONTRACTOR.md | Contractor vendors, agencies | sample_outputs/cleaned_leads.csv |
+| Data Cleaning | FIVERR_GIG_DATA_CLEANER.md | CRM/marketing ops | sample_outputs/generated_report.md |
 
-## Tools
+## Metrics
 
-- `lead_scraper.py` — generates scored lead CSVs for any city + niche
-- `review_tracker.py` — review audits with sentiment breakdowns
-- `data_cleaner.py` — dedupe + normalize messy CSVs
-- `report_generator.py` — turn data into client-facing markdown reports
+- Live repo: https://github.com/RonaldRizz/lead-engine-pro
+- Live landing: https://ronaldrizz.github.io/lead-engine-pro/
+- Tools: 4 verified scripts
+- Outreach emails: 40 personalized templates
+- First contact paths: Fiverr, cold email, GitHub proof page
 
-## Sample Deliverables
+## Uses
 
-See `sample_outputs/` for exact client outputs:
-- Austin restaurant leads with opportunity scores
-- Sample review intelligence report
-- Cleaned lead dataset
+List a lead scan, run a reputation audit, clean a CRM export, or buy a weekly retainer.
 
-## Tech
+## Next step
 
-Python, CSV/JSON processing, local search data. All tools run locally and produce plug-and-play deliverables.
-
-## Contact
-
-- Fiverr: [your Fiverr profile URL]
-- GitHub: [your GitHub profile URL]
-- Email: [your email]
-
-## License
-
-MIT — use freely, attribution appreciated.
+Message with city + niche and I’ll send a custom sample scan fast.
